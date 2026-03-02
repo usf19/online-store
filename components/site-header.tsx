@@ -27,7 +27,7 @@ export function SiteHeader() {
         <Link href="/" className="flex items-center gap-2">
           <Store className="h-6 w-6 text-primary" />
           <span className="text-xl font-bold tracking-tight text-foreground" style={{ fontFamily: "var(--font-heading)" }}>
-            شوب فيرس
+            Onlin Store System
           </span>
         </Link>
 
