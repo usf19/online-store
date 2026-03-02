@@ -164,7 +164,7 @@ export default function HomePage() {
               هل أنت مستعد للبيع؟
             </h2>
             <p className="mx-auto mt-3 max-w-lg text-white/80">
-              انضم إلى شوب فيرس كبائع وتواصل مع آلاف العملاء.
+              انضم إلى Oline Story System كبائع وتواصل مع آلاف العملاء.
               إعداد سهل، أدوات قوية، ودعم مخصص.
             </p>
             <div className="mt-8 flex flex-wrap justify-center gap-4">
