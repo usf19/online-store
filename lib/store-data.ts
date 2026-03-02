@@ -132,19 +132,19 @@ export const sampleProducts: Product[] = [
 ]
 
 export const sampleUsers: User[] = [
-  { id: "u1", name: "أحمد محمد", email: "ahmed@example.com", role: "admin", joined: "2024-01-15", status: "active" },
-  { id: "u2", name: "فاطمة علي", email: "fatma@example.com", role: "seller", joined: "2024-03-22", status: "active" },
-  { id: "u3", name: "سارة حسن", email: "sara@example.com", role: "user", joined: "2024-05-10", status: "active" },
-  { id: "u4", name: "عمر خالد", email: "omar@example.com", role: "user", joined: "2024-06-01", status: "inactive" },
-  { id: "u5", name: "نورا سعيد", email: "noura@example.com", role: "seller", joined: "2024-02-18", status: "active" },
-  { id: "u6", name: "يوسف إبراهيم", email: "yousef@example.com", role: "user", joined: "2024-07-05", status: "active" },
+  { id: "u1", name: "يوسف وليد", email: "ledoo@example.com", role: "admin", joined: "2024-01-15", status: "active" },
+  { id: "u2", name: "محمد ابراهيم", email: "henzo@example.com", role: "seller", joined: "2024-03-22", status: "active" },
+  { id: "u3", name: "محمد جابر", email: "gaber@example.com", role: "user", joined: "2024-05-10", status: "active" },
+  { id: "u4", name: "محمد عماد", email: "abo raya@example.com", role: "user", joined: "2024-06-01", status: "inactive" },
+  { id: "u5", name: "عبد الرحمن خالد", email: "poda@example.com", role: "seller", joined: "2024-02-18", status: "active" },
+  { id: "u6", name: " عبد الحليم", email: "abdlhalem@example.com", role: "user", joined: "2024-07-05", status: "active" },
 ]
 
 export const sampleOrders: Order[] = [
   {
     id: "o1",
     userId: "u3",
-    userName: "سارة حسن",
+    userName: "محمد ابراهيم",
     products: [
       { productId: "p1", name: "سماعات لاسلكية", quantity: 1, price: 89.99 },
       { productId: "p3", name: "كوب قهوة سيراميك", quantity: 2, price: 18.50 },
@@ -156,7 +156,7 @@ export const sampleOrders: Order[] = [
   {
     id: "o2",
     userId: "u6",
-    userName: "يوسف إبراهيم",
+    userName: "يوسف وليد",
     products: [
       { productId: "p4", name: "حذاء رياضي للجري", quantity: 1, price: 129.00 },
     ],
@@ -167,7 +167,7 @@ export const sampleOrders: Order[] = [
   {
     id: "o3",
     userId: "u3",
-    userName: "سارة حسن",
+    userName: "محمد ابراهيم",
     products: [
       { productId: "p6", name: "ساعة ذكية", quantity: 1, price: 199.99 },
       { productId: "p8", name: "سجادة يوغا", quantity: 1, price: 49.99 },
