@@ -52,14 +52,14 @@ export default function ContactPage() {
                 {
                   icon: Phone,
                   title: "الهاتف",
-                  detail: "+966 (55) 123-4567",
+                  detail: "01200762253",
                   sub: "الأحد-الخميس، 9ص-6م",
                 },
                 {
                   icon: MapPin,
                   title: "المكتب",
-                  detail: "123 شارع التجارة",
-                  sub: "الرياض، المملكة العربية السعودية",
+                  detail: "شارع الكحله",
+                  sub: "شما اشمون منوفيه",
                 },
                 {
                   icon: Clock,
