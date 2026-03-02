@@ -17,7 +17,7 @@ export function SiteFooter() {
           <Link href="/contact" className="hover:text-foreground transition-colors">اتصل بنا</Link>
         </nav>
         <p className="text-sm text-muted-foreground">
-          {'© 2026 Onlin Store System. جميع الحقوق محفوظة.'}
+          {'© 2026 Online Store System. جميع الحقوق محفوظة.'}
         </p>
       </div>
     </footer>
