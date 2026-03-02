@@ -8,7 +8,7 @@ export function SiteFooter() {
         <div className="flex items-center gap-2">
           <Store className="h-5 w-5 text-primary" />
           <span className="text-sm font-semibold text-foreground" style={{ fontFamily: "var(--font-heading)" }}>
-            شوب فيرس
+            Oline Store System
           </span>
         </div>
         <nav className="flex gap-4 text-sm text-muted-foreground">
@@ -17,7 +17,7 @@ export function SiteFooter() {
           <Link href="/contact" className="hover:text-foreground transition-colors">اتصل بنا</Link>
         </nav>
         <p className="text-sm text-muted-foreground">
-          {'© 2026 شوب فيرس. جميع الحقوق محفوظة.'}
+          {'© 2026 Onlin Store System. جميع الحقوق محفوظة.'}
         </p>
       </div>
     </footer>
