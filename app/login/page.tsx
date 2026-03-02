@@ -50,7 +50,7 @@ export default function LoginPage() {
             <Link href="/" className="inline-flex items-center gap-2">
               <Store className="h-8 w-8 text-primary" />
               <span className="text-2xl font-bold text-foreground" style={{ fontFamily: "var(--font-heading)" }}>
-                شوب فيرس
+                Onlin Store System
               </span>
             </Link>
           </div>
