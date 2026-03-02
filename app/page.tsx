@@ -28,7 +28,7 @@ export default function HomePage() {
               className="object-cover"
               priority
             />
-            <div className="absolute inset-0 bg-teal-900/20" />
+            <div className="absolute inset-0 bg-white/20" />
           </div>
           <div className="relative mx-auto flex max-w-7xl flex-col items-center px-4 py-24 text-center md:py-36">
             <h1
