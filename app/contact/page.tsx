@@ -46,7 +46,7 @@ export default function ContactPage() {
                 {
                   icon: Mail,
                   title: "البريد الإلكتروني",
-                  detail: "support@shopverse.com",
+                  detail: "support@gmail.com",
                   sub: "نرد خلال 24 ساعة",
                 },
                 {
