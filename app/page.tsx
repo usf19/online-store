@@ -14,7 +14,7 @@ export default function HomePage() {
   const featuredProducts = products.slice(0, 4)
 
   return (
-    <div className="flex min-h-screen flex-col bg-background">
+    <div className="flex min-h-screen flex-col bg-white">
       <SiteHeader />
 
       <main className="flex-1">
