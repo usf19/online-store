@@ -9,9 +9,9 @@ const _notoArabic = Noto_Sans_Arabic({ subsets: ["arabic"], variable: "--font-no
 const _spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space-grotesk" });
 
 export const metadata: Metadata = {
-  title: 'شوب فيرس - متجر إلكتروني',
+  title: 'Onlin Story System - متجر إلكتروني',
   description: 'تصفح واشتري منتجات عالية الجودة. أدر متجرك كمسؤول أو بائع.',
-  generator: 'v0.app',
+  generator: 'ledoo',
   icons: {
     icon: [
       {
